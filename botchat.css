@@ -36,7 +36,7 @@ body .wc-app, .wc-app button, .wc-app input, .wc-app textarea {
     right: 0;
     top: 0;
     z-index: 1;
-    background-image: url(Botheader_Icon.png); 
+    background-image: url(android.png); 
     background-repeat: no-repeat;
     background-size: 38px;
     background-position: 1%;
@@ -388,11 +388,11 @@ body .wc-app, .wc-app button, .wc-app input, .wc-app textarea {
     text-align: right; }
   
   .wc-message-from-me .wc-message-content {
-    background-color: #B30838;
+    background-color: #0056B8;
     color: #ffffff; }
   
   .wc-message-from-me svg.wc-message-callout path {
-    fill: #B30838; }
+    fill: #0056B8; }
   
   .wc-message-from-me svg.wc-message-callout path.point-left {
     display: none; }
